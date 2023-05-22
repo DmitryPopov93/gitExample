@@ -4,5 +4,6 @@ public class Main {
         System.out.println("commit user1 - 1");
         System.out.println("commit user1 - 2");
         System.out.println("commit user2 - 1");
+        System.out.println("commit user2 - 2");
     }
 }
