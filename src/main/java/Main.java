@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!!!");
         System.out.println("Merge exBranch");
         System.out.println("Merge exBranch2");
-        System.out.println();
+        System.out.println("");
     }
 }
