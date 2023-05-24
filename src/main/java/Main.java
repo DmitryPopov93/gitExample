@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Branch master");
 
         System.out.println("commit u1 - 1");
+        System.out.println("commit master 12:07");
     }
 }
